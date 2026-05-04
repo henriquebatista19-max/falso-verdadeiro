@@ -1,18 +1,7 @@
-// const usuariologado = true;
-// const contapaga = false;
+const nome = "Henrique"
+const idade = 2026-2008;
+const cidadeDeNacimento = "Roncador";
 
-//0 ==> false
-// 1 // ==> true
+const apresntacao = "Meu nome é " + nome ", minha idade é " + idade + "e nasci na cidade de" + cidadeDeNacimento;
 
-// console.log(0 == false);
-// console.log(1 == true);
-// console.log ("" == false);
-
-//null
-//undefined
-
-let minhavar;
-let varNull = null;
-
-console.log(minhaVar)
-console.log(VarNull)
+console.log(apresentação)
